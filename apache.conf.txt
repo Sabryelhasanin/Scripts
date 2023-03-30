@@ -1,0 +1,8 @@
+
+<virtualHost *:80>
+
+	ServerName msgtech.live
+	ServerAlias www.msgtech.live
+	DocumentRoot "/var/www/html/msgtech.live"
+
+</virtualHost>
